@@ -93,4 +93,3 @@ If you encounter any problems or have questions about the assignment, please:
 2. Create a new Issue if your question hasn't been addressed
 3. Contact your instructor via email for urgent matters
 
-Good luck, and enjoy working with R! r-basic-data-analysis-template
