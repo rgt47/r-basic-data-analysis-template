@@ -1,0 +1,16 @@
+student_id,score,study_hours,subject
+1,85,5,Math
+2,72,3,Math
+3,91,7,Math
+4,65,2,Math
+5,78,4,Math
+6,81,5,Science
+7,94,8,Science
+8,62,1,Science
+9,75,4,Science
+10,88,6,Science
+11,79,4,History
+12,83,5,History
+13,67,2,History
+14,90,7,History
+15,73,3,History
